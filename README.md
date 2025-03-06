@@ -60,6 +60,8 @@ Step-by-Step DCF Valuation Process
 
 Download My Valuation Model
 
+https://github.com/luketaulbee12/Cash-Flow-Model-and-DCF-Analysis/raw/refs/heads/main/MHI_DCF.xlsx
+
 * This file contains my full financial model, including:
 
 * DCF analysis with Unlevered Free Cash Flow (UFCF)
